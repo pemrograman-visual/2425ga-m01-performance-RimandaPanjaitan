@@ -1,0 +1,3 @@
+Kami mengalamai kesulitan dalam pemberian nama branching
+Kami awalnya menggunakan looping do lalu karena tidak mengerti kami menggantinya ke looping while
+Kami mengalami masalah dimana loopingan kami untitlelized
